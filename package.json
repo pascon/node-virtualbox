@@ -8,6 +8,7 @@
   "main":"./lib/virtualbox",
   "repository": { "type":"git",  "url" : "http://github.com/azer/node-virtualbox.git" },
   "dependencies":{
-    "log4js": "0.x"
+    "log4js": "0.x",
+    "moment": "2.x"
   }
 }
