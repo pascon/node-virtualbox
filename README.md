@@ -1,5 +1,5 @@
 # node-virtualbox
-A JavaScript library to interact with Virtualbox.
+A JavaScript library to interact with Virtualbox - **with support for BIOS date change**.
 
 # Installation
 
